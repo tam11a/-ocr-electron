@@ -4,18 +4,13 @@ import React from "react";
 const items: TabsProps["items"] = [
 	{
 		key: "1",
-		label: "Tab 1",
+		label: "Images",
 		children: "Content of Tab Pane 1",
 	},
 	{
 		key: "2",
-		label: "Tab 2",
+		label: "Contents",
 		children: "Content of Tab Pane 2",
-	},
-	{
-		key: "3",
-		label: "Tab 3",
-		children: "Content of Tab Pane 3",
 	},
 ];
 
